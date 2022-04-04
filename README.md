@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm welann</h1>
-<h3 align="center">a beginner of Code and 3D-model</h3>
+<h3 align="center">a beginner of Code </h3>
 
-- ⚒️ Code and Model
+- ⚒️ Code
 - ✨ interested in CG
 - 🔭 Want to build my own Renderer or  Game Engine
 
