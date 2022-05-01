@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm welann</h1>
-<h3 align="center">a beginner of Code </h3>
-
-- ⚒️ Code
-- ✨ interested in CG
-- 🔭 Want to build my own Renderer or  Game Engine
 
 --------------------
 <h3 align="left">Languages and Tools:</h3>
