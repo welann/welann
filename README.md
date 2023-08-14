@@ -9,10 +9,11 @@
 ### 正在做的事情
 ---
 
-+ 写一个渲染器
-+ 做游戏
++ ~写一个渲染器~
++ ~做游戏~
 + ~把之前收集到的资料看完~
 
+**都不搞啦！为了水学历已经投身机器学习了（叹气**
 ---
 
  ![welann's github stats](https://github-readme-stats.vercel.app/api?username=welann&show_icons=true&hide_border=true)
