@@ -1,19 +1,10 @@
 ### Hi 👋, I'm welann(维兰)
 ---
++ 在搞机器学习
++ 具体来说是图像方向
++ 其中的一条死路
++ 所以我正在试图在草地上走出一条活路
 
-+ 🎀 I am currently exploring the world of coding and trying to create more interesting projects. 
-+ 📕 I'm always looking to learn more, but the speed of reading materials is far behind the speed of collecting materials. ＞﹏＜
-+ 🧡 Thank you for taking the time to read my profile.
-
-
-### 正在做的事情
----
-
-+ ~写一个渲染器~
-+ ~做游戏~
-+ ~把之前收集到的资料看完~
-
-**都不搞啦！为了水学历已经投身机器学习了（叹气**
 ---
 
  ![welann's github stats](https://github-readme-stats.vercel.app/api?username=welann&show_icons=true&hide_border=true)
